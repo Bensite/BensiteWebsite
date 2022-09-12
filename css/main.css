@@ -1,0 +1,1946 @@
+.draft--5-auto-layout--experiment-,
+.draft--5-auto-layout--experiment- * {
+    box-sizing: border-box;
+}
+
+.draft--5-auto-layout--experiment- {
+    width: 1440px;
+    height: 9179px;
+    position: relative;
+    overflow: hidden;
+}
+
+.workflow {
+    background: var(---gyf-lh-tt-r, linear-gradient(109.99deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.03) 52.60133743286133%, rgba(22, 28, 44, 0.00) 100%), linear-gradient(to left, rgba(22, 28, 44, 0.10), rgba(22, 28, 44, 0.10)), linear-gradient(114.76deg, rgba(51, 57, 68, 0.70) 0%, rgba(15, 17, 25, 0.70) 100%));
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    width: 1440px;
+    height: 3187px;
+    position: absolute;
+    left: 0px;
+    top: 4287px;
+    overflow: hidden;
+}
+
+.provide {
+    width: 1120px;
+    height: 2256px;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+}
+
+.weboldalk-sz-t-s--folyamata {
+    text-align: center;
+    font: 500 48px/119.5% 'Poppins';
+    position: absolute;
+    left: 267px;
+    top: 51px;
+    width: 585px;
+    height: 107px;
+}
+
+.weboldalk-sz-t-s--folyamata-span {
+    color: #ffffff;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+.weboldalk-sz-t-s--folyamata-span2 {
+    color: #a2db99;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+.vector-2 {
+    position: absolute;
+    left: 496px;
+    top: 184px;
+    overflow: visible;
+}
+
+.lines {
+    width: 609px;
+    height: 180px;
+    position: static;
+}
+
+.line-5 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 100px;
+    height: 0px;
+    position: absolute;
+    left: 869px;
+    top: 703px;
+    transform-origin: 0 0;
+    transform: rotate(89.427deg) scale(1, 1);
+}
+
+.line-6 {
+    position: absolute;
+    left: 262px;
+    top: 802px;
+    transform: translate(-5.77px, 0px);
+    overflow: visible;
+}
+
+.line-62 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 609px;
+    height: 0px;
+    position: absolute;
+    left: 261px;
+    top: 803px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.line-52 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 100px;
+    height: 0px;
+    position: absolute;
+    left: 869px;
+    top: 1911px;
+    transform-origin: 0 0;
+    transform: rotate(89.427deg) scale(1, 1);
+}
+
+.line-63 {
+    position: absolute;
+    left: 262px;
+    top: 2010px;
+    transform: translate(-5.77px, 0px);
+    overflow: visible;
+}
+
+.line-64 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 609px;
+    height: 0px;
+    position: absolute;
+    left: 261px;
+    top: 2011px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.line-53 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 100px;
+    height: 0px;
+    position: absolute;
+    left: 263px;
+    top: 1307px;
+    transform-origin: 0 0;
+    transform: rotate(89.427deg) scale(-1, 1);
+}
+
+.line-65 {
+    position: absolute;
+    left: 870px;
+    top: 1406px;
+    transform: translate(-5.77px, 0px);
+    overflow: visible;
+}
+
+.line-66 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 609px;
+    height: 0px;
+    position: absolute;
+    left: 871px;
+    top: 1407px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+}
+
+.group-11 {
+    width: 1121px;
+    height: 404px;
+    position: static;
+}
+
+.card-8 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 518.23px;
+    height: 404px;
+    position: absolute;
+    left: 601.77px;
+    top: 299px;
+    overflow: hidden;
+}
+
+.kapcsolatfelv-tel {
+    color: #a2db99;
+    text-align: left;
+    font: 400 48px/134.5% 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 108px;
+    width: 455px;
+    height: 64px;
+}
+
+.az-aj-nlatk-r-st-k-vet-en-egy-automatikus-email-t-k-ld-nk--ezt-nem-k-telez--kit-lteni--de-meglehet-sen-felgyors-tja-a-munk-t--aj-nlatk-r-st-l-sz-m-tva-24--r-n-bel-l-felvessz-k-veled-a-kapcsolatot--a-megbesz-lt-id-pontban-konzult-lunk-az-elk-pzel-sekr-l--majd-csapatunk-ser-nyen-nekikezd-a-tervez-snek {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Petrona';
+    position: absolute;
+    left: 24px;
+    top: 231px;
+    width: 473px;
+}
+
+.vector-22 {
+    position: absolute;
+    left: 24px;
+    top: 198px;
+    overflow: visible;
+}
+
+._01 {
+    color: #86868a;
+    text-align: left;
+    font: 500 64px 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 18px;
+    width: 64px;
+    height: 70px;
+}
+
+.frame-2 {
+    width: 602.77px;
+    height: 404px;
+    position: absolute;
+    left: -1px;
+    top: 299px;
+    box-shadow: 0px 0px 100px 0px rgba(162, 219, 153, 0.50);
+    overflow: hidden;
+}
+
+.group-12 {
+    width: 1120.77px;
+    height: 404px;
+    position: static;
+}
+
+.card-82 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 518.23px;
+    height: 404px;
+    position: absolute;
+    left: -1px;
+    top: 903px;
+    overflow: hidden;
+}
+
+.tervez-s {
+    color: #a2db99;
+    text-align: left;
+    font: 400 48px/134.5% 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 108px;
+    width: 455px;
+    height: 64px;
+}
+
+.fontosnak-tartjuk--gyfeleinkkel-val--folyamatos--s--rthet--kommunik-ci-t--a-konzult-ci-n-megbesz-ltek-alapj-n-v-zrajzot-k-sz-t-nk--ezut-n-elk-sz-l-a-webdesign-protot-pus-amit-tov-bbitunk-neked--ahogy-r-b-lintasz-erre-a-l-tv-nytervre-egyb-l-megindul-a-weblap-fejleszt-se {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Petrona';
+    position: absolute;
+    left: 24px;
+    top: 231px;
+    width: 473px;
+}
+
+.vector-23 {
+    position: absolute;
+    left: 24px;
+    top: 198px;
+    overflow: visible;
+}
+
+._02 {
+    color: #86868a;
+    text-align: left;
+    font: 500 64px 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 18px;
+    width: 78px;
+    height: 70px;
+}
+
+.frame-22 {
+    width: 602.77px;
+    height: 404px;
+    position: absolute;
+    left: 517px;
+    top: 903px;
+    box-shadow: 0px 0px 100px 0px rgba(162, 219, 153, 0.50);
+    overflow: hidden;
+}
+
+.group-16 {
+    width: 1120.77px;
+    height: 404px;
+    position: static;
+}
+
+.card-83 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 518.23px;
+    height: 404px;
+    position: absolute;
+    left: 0px;
+    top: 2111px;
+    overflow: hidden;
+}
+
+.tesztel-s {
+    color: #a2db99;
+    text-align: left;
+    font: 400 48px/134.5% 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 108px;
+    width: 455px;
+    height: 64px;
+}
+
+.nagy-hangs-lyt-helyez-nk-az--tadott-munk-ink-min-s-g-re--az-els--teszteken-megbizonyosodtunk-r-la--hogy-a-weboldal-minden-multikommunik-ci-s-eszk-zzel-kompatibilis--m-sodik-k-rben-kipr-b-ljuk-minden-egyes-funkci-j-t-az-oldalnak--term-szetesen-ezt-is-t-bb-platformon- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Petrona';
+    position: absolute;
+    left: 24px;
+    top: 231px;
+    width: 473px;
+}
+
+.vector-24 {
+    position: absolute;
+    left: 24px;
+    top: 198px;
+    overflow: visible;
+}
+
+._04 {
+    color: #86868a;
+    text-align: left;
+    font: 500 64px 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 18px;
+    width: 83px;
+    height: 70px;
+}
+
+.frame-23 {
+    width: 602.77px;
+    height: 404px;
+    position: absolute;
+    left: 518px;
+    top: 2111px;
+    box-shadow: 0px 0px 100px 0px rgba(162, 219, 153, 0.50);
+    overflow: hidden;
+}
+
+.group-13 {
+    width: 1121px;
+    height: 404px;
+    position: static;
+}
+
+.card-84 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 518.23px;
+    height: 404px;
+    position: absolute;
+    left: 601.77px;
+    top: 1507px;
+    overflow: hidden;
+}
+
+.fejleszt-s {
+    color: #a2db99;
+    text-align: left;
+    font: 400 48px/134.5% 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 108px;
+    width: 455px;
+    height: 64px;
+}
+
+.csapatunk-a-legmodernebb-technol-giai-megold-sokkal--letre-kelti-az-el-zetesen-megtervezett-honlapot--enn-l-a-l-p-sn-l-t-rt-nik-a-v-llalkoz-s-profilj-hoz-legjobban-ill--marketing-sz-veg-meg-r-sa-valamint-annak-keres-optimaliz-l-sa--hogy-a-honlapod-a-google-tal-latok-els--oldal-n-szerepelhessen- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Petrona';
+    position: absolute;
+    left: 24px;
+    top: 231px;
+    width: 473px;
+}
+
+.vector-25 {
+    position: absolute;
+    left: 24px;
+    top: 198px;
+    overflow: visible;
+}
+
+._03 {
+    color: #86868a;
+    text-align: left;
+    font: 500 64px 'Poppins';
+    position: absolute;
+    left: 24.23px;
+    top: 18px;
+    width: 81px;
+    height: 70px;
+}
+
+.frame-24 {
+    width: 602.77px;
+    height: 404px;
+    position: absolute;
+    left: -1px;
+    top: 1507px;
+    box-shadow: 0px 0px 100px 0px rgba(162, 219, 153, 0.50);
+    overflow: hidden;
+}
+
+.group-15 {
+    width: 1121px;
+    height: 404px;
+    position: static;
+}
+
+.card-85 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 518.23px;
+    height: 404px;
+    position: absolute;
+    left: 601.77px;
+    top: 2715px;
+    overflow: hidden;
+}
+
+.-tad-s {
+    color: #a2db99;
+    text-align: left;
+    font: 400 48px/134.5% 'Poppins';
+    position: absolute;
+    left: 24px;
+    top: 108px;
+    width: 455px;
+    height: 64px;
+}
+
+.amint-a-weboldal-hiba-n-lk-l-m-k-dik--s-minden-funkci-j-t-100--ig-elv-gzi---tadjuk-a-honlap-hozz-f-r-si-adatait--weboldalad-a-saj-t-szerver-nk-n-fog-futni--gy-lehet-s-g-van-a-k-s-bbiekben-karbantart-sra-vagy-fejleszt-sre--megl-v---gyfeleink-k-r-seit-els-dleges-priorit-ssal-kezelj-k- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Petrona';
+    position: absolute;
+    left: 24px;
+    top: 231px;
+    width: 473px;
+}
+
+.vector-26 {
+    position: absolute;
+    left: 24px;
+    top: 198px;
+    overflow: visible;
+}
+
+._05 {
+    color: #86868a;
+    text-align: left;
+    font: 500 64px 'Poppins';
+    position: absolute;
+    left: 24.23px;
+    top: 18px;
+    width: 95px;
+    height: 70px;
+}
+
+.frame-25 {
+    border-radius: 0px 0px 0px 40px;
+    width: 602.77px;
+    height: 404px;
+    position: absolute;
+    left: -1px;
+    top: 2715px;
+    box-shadow: 0px 0px 100px 0px rgba(162, 219, 153, 0.50);
+    overflow: hidden;
+}
+
+.line-54 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 100px;
+    height: 0px;
+    position: absolute;
+    left: 423px;
+    top: 2515px;
+    transform-origin: 0 0;
+    transform: rotate(89.427deg) scale(-1, 1);
+}
+
+.line-67 {
+    position: absolute;
+    left: 1030px;
+    top: 2614px;
+    transform: translate(-5.77px, 0px);
+    overflow: visible;
+}
+
+.line-68 {
+    border: dashed #a2db99;
+    border-width: 2px 0 0 0;
+    width: 609px;
+    height: 0px;
+    position: absolute;
+    left: 1031px;
+    top: 2615px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+}
+
+.social-media {
+    background: linear-gradient(109.99deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.03) 52.60133743286133%, rgba(22, 28, 44, 0.00) 100%), linear-gradient(to left, rgba(22, 28, 44, 0.10), rgba(22, 28, 44, 0.10)), linear-gradient(114.76deg, rgba(51, 57, 68, 0.70) 0%, rgba(15, 17, 25, 0.70) 100%);
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    width: 1440px;
+    height: 292px;
+    position: absolute;
+    left: -1px;
+    top: 3995px;
+    overflow: hidden;
+}
+
+.bg {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.30) 100%), linear-gradient(to left, rgba(217, 217, 217, 0.20), rgba(217, 217, 217, 0.20));
+    width: 1439px;
+    height: 292px;
+    position: absolute;
+    left: 1px;
+    top: 0px;
+}
+
+.provide2 {
+    width: 1120px;
+    height: 292px;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.group-21 {
+    width: 1107px;
+    height: 116px;
+    position: static;
+}
+
+.social-media---youtube {
+    width: 115px;
+    height: 115px;
+    position: absolute;
+    left: 403px;
+    top: 89px;
+}
+
+.logo-container {
+    width: 115px;
+    height: 115px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.vector {
+    position: absolute;
+    left: 25.3px;
+    top: 34.5px;
+    overflow: visible;
+}
+
+.social-media---pinterest {
+    width: 115px;
+    height: 115px;
+    position: absolute;
+    left: 998px;
+    top: 88px;
+}
+
+.vector2 {
+    position: absolute;
+    left: 35.65px;
+    top: 28.75px;
+    overflow: visible;
+}
+
+.social-media---tik-tok {
+    width: 114px;
+    height: 115px;
+    position: absolute;
+    left: 602px;
+    top: 88px;
+}
+
+.logo-container2 {
+    width: 114px;
+    height: 115px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.capa-2 {
+    width: 50.47px;
+    height: 57.54px;
+    position: static;
+}
+
+.elements {
+    position: absolute;
+    left: 31.76px;
+    top: 28.73px;
+    overflow: visible;
+}
+
+.social-media---twitter {
+    width: 114px;
+    height: 115px;
+    position: absolute;
+    left: 205px;
+    top: 89px;
+}
+
+.capa-22 {
+    width: 58.19px;
+    height: 48.39px;
+    position: static;
+}
+
+.elements2 {
+    position: absolute;
+    left: 27.9px;
+    top: 33.31px;
+    overflow: visible;
+}
+
+.social-media---instagram {
+    width: 115px;
+    height: 115px;
+    position: absolute;
+    left: 6px;
+    top: 89px;
+}
+
+.logo-2 {
+    position: absolute;
+    left: 26.08px;
+    top: 26.1px;
+    overflow: visible;
+}
+
+.social-media---facebook {
+    width: 114px;
+    height: 115px;
+    position: absolute;
+    left: 800px;
+    top: 89px;
+}
+
+.capa-23 {
+    width: 30.86px;
+    height: 57.5px;
+    position: static;
+}
+
+.elements3 {
+    position: absolute;
+    left: 41.57px;
+    top: 28.75px;
+    overflow: visible;
+}
+
+.howcanwehelp {
+    width: 1440px;
+    height: 566px;
+    position: static;
+}
+
+.bg2 {
+    background: linear-gradient(to left, rgba(43, 59, 63, 0.20), rgba(43, 59, 63, 0.20)), linear-gradient(89.82deg, rgba(0, 0, 0, 1.00) 30.270153284072876%, rgba(0, 0, 0, 0.40) 63.54166865348816%, rgba(0, 0, 0, 0.15) 100%), linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20));
+    width: 1440px;
+    height: 566px;
+    position: absolute;
+    left: 0px;
+    top: 7920px;
+}
+
+.form {
+    width: 492px;
+    height: 485px;
+    position: static;
+}
+
+.rectangle-30 {
+    background: var(--form1, rgba(255, 255, 255, 0.15));
+    border: solid var(--green, #a2db99);
+    border-width: 1px;
+    width: 492px;
+    height: 48px;
+    position: absolute;
+    left: 159px;
+    top: 8180px;
+}
+
+.rectangle-32 {
+    background: var(--form1, rgba(255, 255, 255, 0.15));
+    border: solid var(--green, #a2db99);
+    border-width: 1px;
+    width: 492px;
+    height: 129px;
+    position: absolute;
+    left: 159px;
+    top: 8250px;
+}
+
+.rectangle-29 {
+    background: var(--form1, rgba(255, 255, 255, 0.15));
+    border: solid var(--green, #a2db99);
+    border-width: 1px;
+    width: 492px;
+    height: 48px;
+    position: absolute;
+    left: 159px;
+    top: 8110px;
+}
+
+.hogyan-sz-l-tsalak- {
+    color: rgba(255, 255, 255, 0.54);
+    text-align: left;
+    font: 300 15px 'Roboto';
+    position: absolute;
+    left: 174px;
+    top: 8113px;
+    width: 235px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+
+.e-mail {
+    color: rgba(255, 255, 255, 0.54);
+    text-align: left;
+    font: 300 15px 'Roboto';
+    position: absolute;
+    left: 174px;
+    top: 8180px;
+    width: 235px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+
+.sz-veg--- {
+    color: rgba(255, 255, 255, 0.54);
+    text-align: left;
+    font: 300 15px 'Roboto';
+    position: absolute;
+    left: 170px;
+    top: 8252px;
+    width: 235px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+
+.hogyan-seg-thet-nk- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 46px 'Poppins';
+    position: absolute;
+    left: 159px;
+    top: 7964px;
+    width: 492px;
+    height: 96px;
+}
+
+.-rd-meg-az-elk-pzel-seidet-vagy-probl-m-idat--s-mi-24--r-n-bel-l-felvessz-k-veled-a-kapcsolatot- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Poppins';
+    position: absolute;
+    left: 159px;
+    top: 8033px;
+    width: 439px;
+    height: 53px;
+}
+
+.group-3 {
+    width: 235px;
+    height: 48px;
+    position: static;
+}
+
+.rectangle-7 {
+    border-radius: 5px;
+    position: absolute;
+    left: 159px;
+    top: 8401px;
+    overflow: visible;
+}
+
+.k-ld-s {
+    color: #3b3b4f;
+    text-align: center;
+    font: 700 20px 'Petrona';
+    text-transform: uppercase;
+    position: absolute;
+    left: 202px;
+    top: 8414.58px;
+    width: 150px;
+    height: 20.83px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.whatcanweprovide {
+    background: var(---gyf-lh-tt-r, linear-gradient(109.99deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.03) 52.60133743286133%, rgba(22, 28, 44, 0.00) 100%), linear-gradient(to left, rgba(22, 28, 44, 0.10), rgba(22, 28, 44, 0.10)), linear-gradient(114.76deg, rgba(51, 57, 68, 0.70) 0%, rgba(15, 17, 25, 0.70) 100%));
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 871px;
+    position: absolute;
+    left: 0px;
+    top: 802px;
+    box-shadow: 0px 0px 172.8px 0px rgba(22, 28, 44, 1.00), 0px 0px 345.6px 0px rgba(22, 28, 44, 1.00), 0px 0px 1209.6px 0px rgba(22, 28, 44, 1.00), 0px 0px 2419.2px 0px rgba(22, 28, 44, 1.00), 0px 0px 4147.2px 0px rgba(22, 28, 44, 1.00), 0px 0px 7257.6px 0px rgba(22, 28, 44, 1.00);
+}
+
+.provide3 {
+    padding: 60px 160px 60px 160px;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 1440px;
+    height: 866px;
+    position: relative;
+}
+
+.amit-ny-jtani-tudunk---gyfeleinknek {
+    text-align: center;
+    font: 500 48px/119.5% 'Poppins';
+    position: relative;
+    width: 585px;
+    height: 107px;
+}
+
+.amit-ny-jtani-tudunk---gyfeleinknek-span {
+    color: #ffffff;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+.amit-ny-jtani-tudunk---gyfeleinknek-span2 {
+    color: #a2db99;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+.vector-1 {
+    flex-shrink: 0;
+    width: 128px;
+    height: 7px;
+    position: relative;
+}
+
+.egy-r-vid-konzult-ci--ut-n-a-piaci-ig-nyeket-kiel-g-t---felhaszn-l-bar-t--modern-weboldalt-k-sz-t-nk-neked- {
+    color: #ffffff;
+    text-align: center;
+    font: 500 20px 'Petrona';
+    position: relative;
+    width: 638px;
+}
+
+.cards {
+    padding: 0px 160px 0px 160px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.--cards-row {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.card-86 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.30) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 10px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    padding: 23px 30px 23px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 360px;
+    height: 231.72px;
+    position: relative;
+}
+
+.rectangle-17 {
+    flex-shrink: 0;
+    width: 69px;
+    height: 52px;
+    position: relative;
+}
+
+.domain-v-laszt-s {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: relative;
+}
+
+.a-domain-n-v-v-laszt-s-egy-kritikus-pontja-a-m-rka-p-t-snek--ha-nincs-konkr-t-elk-pzel-s-mi-seg-t-nk-a-megtal-lni-a-megfelel-t- {
+    color: #ffffff;
+    text-align: center;
+    font: 400 14px/119.5% 'Poppins';
+    position: relative;
+    width: 298px;
+    height: 69px;
+}
+
+.card-2 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.30) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 10px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    padding: 23px 30px 23px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 360px;
+    height: 231.72px;
+    position: relative;
+}
+
+.t-rhely-biztos-t-s {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: relative;
+}
+
+.weboldalad-sz-m-ra--gyors--s-stabil-t-rhelyet-biztos-tunk---gy-az-oldaladra-l-togat-k-teljes-felhaszn-l-i--lm-nyt-kapnak- {
+    color: #ffffff;
+    text-align: center;
+    font: 400 14px/119.5% 'Poppins';
+    position: relative;
+    width: 298px;
+    height: 69px;
+}
+
+.card-7 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.30) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 10px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    padding: 23px 30px 23px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 360px;
+    height: 231.72px;
+    position: relative;
+}
+
+.weboldal-tervez-s {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: relative;
+}
+
+.minden--ltalunk-k-sz-lt-weboldaln-l-az-egyedis-gre-t-reksz-nk--a-t-nyleges-programoz-s-el-tt-protot-pust-mutatunk-fel- {
+    color: #ffffff;
+    text-align: center;
+    font: 400 14px/119.5% 'Poppins';
+    position: relative;
+    width: 298px;
+    height: 69px;
+}
+
+.--cards-row-2 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.keres-optimaliz-l-s {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: relative;
+}
+
+.programoz-sn-l--s-sz-veg-r-sn-l-egyar-nt-a-lehet--leggyakoribb-kulcsszavakat-haszn-ljuk---gy-a-google-tal-lati-lista-tetej-n-v-gez-a-weblapod- {
+    color: #ffffff;
+    text-align: center;
+    font: 400 14px/119.5% 'Poppins';
+    position: relative;
+    width: 298px;
+    height: 69px;
+}
+
+.k-z-ss-gi-m-dia-jelenl-t {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: relative;
+}
+
+.a-weboldalad-forgalm-t-tov-bb-tudjuk-jav-tjuk-k-z-ss-gi-m-dia-jelenl-ttel--ezzel-m-g-t-bb--rdekl-d-t-szerz-nk-a-v-llalkoz-sodhoz {
+    color: #ffffff;
+    text-align: center;
+    font: 400 14px/119.5% 'Poppins';
+    position: relative;
+    width: 298px;
+    height: 69px;
+}
+
+.card-9 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.30) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 10px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    padding: 23px 30px 23px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 360px;
+    height: 231.72px;
+    position: relative;
+}
+
+.sz-veg-r-s {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: relative;
+}
+
+.mi-felt-ltj-k-a-legrelev-nsabb-tartalmakkal-a-weboldalad---gy-a-forgalom-k-pes-lesz-organikusan-n-vekedni- {
+    color: #ffffff;
+    text-align: center;
+    font: 400 14px/119.5% 'Poppins';
+    position: relative;
+    width: 298px;
+    height: 69px;
+}
+
+.varranty {
+    background: var(--grey, linear-gradient(180deg, rgba(63, 68, 77, 0.40) 0%, rgba(255, 255, 255, 0.30) 48.4375%, rgba(91, 95, 87, 0.40) 100%));
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    width: 1440px;
+    height: 446px;
+    position: absolute;
+    left: 0px;
+    top: 7474px;
+    overflow: hidden;
+}
+
+.frame-3 {
+    width: 1120px;
+    height: 446px;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.frame-4 {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 485px;
+    top: 29px;
+    overflow: hidden;
+}
+
+._100--el-gedetts-gi-garancia {
+    text-align: center;
+    font: 500 48px/119.5% 'Poppins';
+    position: absolute;
+    left: 289px;
+    top: 195px;
+    width: 541px;
+    height: 107px;
+}
+
+._100--el-gedetts-gi-garancia-span {
+    color: #ffffff;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+._100--el-gedetts-gi-garancia-span2 {
+    color: #a2db99;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+.vector-3 {
+    position: absolute;
+    left: 496px;
+    top: 318px;
+    overflow: visible;
+}
+
+.a-tesztel-st-nagy-k-r-ltekint-ssel-v-gezz-k-el--azonban-mi-is-emberek-vagyunk--ha-az-els--h-rom-h-napban-b-rmilyen-hib-t-tapasztalsz-a-jav-t-sokat-f--priorit-ssal--s-term-szetesen-d-jtalanul-elv-gezz-k- {
+    color: #ffffff;
+    text-align: center;
+    font: 500 16px/119.5% 'Poppins';
+    position: absolute;
+    left: 328px;
+    top: 353px;
+    width: 784px;
+    height: 63px;
+}
+
+.ourgoals {
+    background: var(---gyf-lh-tt-r, linear-gradient(109.99deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.03) 52.60133743286133%, rgba(22, 28, 44, 0.00) 100%), linear-gradient(to left, rgba(22, 28, 44, 0.10), rgba(22, 28, 44, 0.10)), linear-gradient(114.76deg, rgba(51, 57, 68, 0.70) 0%, rgba(15, 17, 25, 0.70) 100%));
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    width: 1440px;
+    height: 381px;
+    position: absolute;
+    left: 0px;
+    top: 2651px;
+    overflow: hidden;
+}
+
+.provide4 {
+    width: 1120px;
+    height: 381px;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+}
+
+.bg3 {
+    background: var(--rectfill, linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.30) 100%), linear-gradient(to left, rgba(217, 217, 217, 0.20), rgba(217, 217, 217, 0.20)));
+    width: 1439px;
+    height: 381px;
+    position: absolute;
+    left: -160px;
+    top: 0px;
+}
+
+.legf-bb-c-lunk {
+    text-align: center;
+    font: 500 48px/119.5% 'Poppins';
+    position: absolute;
+    left: 267px;
+    top: 61px;
+    width: 585px;
+    height: 118px;
+}
+
+.legf-bb-c-lunk-span {
+    color: #ffffff;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+.legf-bb-c-lunk-span2 {
+    color: #a2db99;
+    font: 500 48px/119.5% 'Poppins';
+}
+
+.legf-bb-c-lunk-a-helyi-v-llalkoz-sok-bevezet-se-az-online-t-rbe--szeretn-nk-bebizony-tani--hogy-a-c-ges-weboldal-igen-is-el-seg-ti-a-profitszerz-st-ak-rmilyen-profillal-is-rendelkezzen-az-adott-v-llalkoz-s- {
+    color: #ffffff;
+    text-align: center;
+    font: 500 20px 'Petrona';
+    position: absolute;
+    left: 160px;
+    top: 235px;
+    width: 799px;
+}
+
+.vector-12 {
+    position: absolute;
+    left: 496px;
+    top: 194px;
+    overflow: visible;
+}
+
+.whyyoushould {
+    width: 1439px;
+    height: 963px;
+    position: absolute;
+    left: 1439px;
+    top: 3032px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    overflow: hidden;
+}
+
+.whyyoushould2 {
+    background: linear-gradient(90deg, rgba(149, 154, 173, 0.00) 0%, rgba(32, 28, 43, 0.87) 42.70833432674408%);
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    width: 1439px;
+    height: 963px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.frame-5 {
+    width: 1120px;
+    height: 963px;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.az-online-jelenl-t-ez-rt-fontos {
+    text-align: left;
+    font: 400 48px/134.5% 'Poppins';
+    position: absolute;
+    left: 1120px;
+    top: 147px;
+    width: 619px;
+    height: 107px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+}
+
+.az-online-jelenl-t-ez-rt-fontos-span {
+    color: #ffffff;
+    font: 400 48px/134.5% 'Poppins';
+}
+
+.az-online-jelenl-t-ez-rt-fontos-span2 {
+    color: #a2db99;
+    font: 400 48px/134.5% 'Poppins';
+}
+
+.vector-27 {
+    position: absolute;
+    left: 1120px;
+    top: 280px;
+    transform: translate(0px, 0px);
+    overflow: visible;
+}
+
+.az-online-jelenl-t-nem-a-sz-ks-ges-rossz--hanem-korunk-leger-sebb-marketing-fegyvere-aminek-birtok-ban-sokszorosan-megn--a-vev--szerz-si-lehet-s-g--az--rdekl-d-k-legels--sorban-a-vil-gh-l-n-t-j-koz-dnak--s-ott-tal-lj-k-meg-a-sz-mukra-legmegfelel-bb-term-ket-vagy-szolg-ltat-st--magyarorsz-gon-k-zel-6-milli--ember-haszn-lja-az-internetet-nap-mint-nap---k-mind-a-te-potenci-lis--gyfeleid-lehetnek--ahogy-emelkednek-az-elad-said-vagy-megbz-said---gy-lehet-s-ged-lesz--rakat-emelni- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px/134.5% 'Poppins';
+    position: absolute;
+    left: 1120px;
+    top: 329px;
+    width: 619px;
+    height: 278px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+}
+
+.group-32 {
+    width: 241px;
+    height: 53px;
+    position: static;
+}
+
+.rectangle-72 {
+    border-radius: 5px;
+    position: absolute;
+    left: 931px;
+    top: 681px;
+    transform: translate(0px, 0px);
+    overflow: visible;
+}
+
+.aj-nlatk-r-s {
+    color: #3b3b4f;
+    text-align: left;
+    font: 700 20px 'Petrona';
+    text-transform: uppercase;
+    position: absolute;
+    left: 884px;
+    top: 697px;
+    width: 148px;
+    height: 22px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+}
+
+.mainpage-bg {
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1440px;
+    height: 800px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.mainpage {
+    background: var(--mainpagebg, linear-gradient(180deg, rgba(51, 57, 68, 0.70) 0%, rgba(15, 17, 25, 0.70) 100%));
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    padding: 0px 160px 0px 160px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1440px;
+    height: 800px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.article {
+    padding: 313px 55px 233px 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    height: 800px;
+    position: relative;
+}
+
+.n-veld-v-llalatod-online--jelenl-t-t-egy-weboldallal {
+    text-align: left;
+    font: 600 48px/121.6% 'Palanquin';
+    position: relative;
+    width: 627px;
+    height: 144px;
+}
+
+.n-veld-v-llalatod-online--jelenl-t-t-egy-weboldallal-span {
+    color: #ffffff;
+    font: 600 48px/121.6% 'Palanquin';
+}
+
+.n-veld-v-llalatod-online--jelenl-t-t-egy-weboldallal-span2 {
+    color: #a2db99;
+    font: 600 48px/121.6% 'Palanquin';
+}
+
+.a-21-sz-zadban-ahhoz--hogy-ne-csak-menjen-hanem-sz-rnyaljon-egy-v-llalkoz-s-sz-ks-g-van-stabil-online-jelenl-tre--mi-k-sz-t-nk-neked-egy-igaz-n-piack-pes--s-felhaszn-l-bar-t-weboldalt {
+    color: #ffffff;
+    text-align: left;
+    font: 500 20px 'Petrona';
+    position: relative;
+    width: 615px;
+}
+
+.component-2 {
+    flex-shrink: 0;
+    width: 241px;
+    height: 53px;
+    position: relative;
+}
+
+.rectangle-73 {
+    border-radius: 5px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.k-rjen-aj-nlatot {
+    color: #3b3b4f;
+    text-align: left;
+    font: 700 20px 'Petrona';
+    text-transform: uppercase;
+    position: absolute;
+    left: 26px;
+    top: 16px;
+    width: 190px;
+    height: 22px;
+}
+
+.goodwebsite {
+    border: solid #a2db99;
+    border-width: 0px 0px 2px 0px;
+    width: 1440px;
+    height: 978px;
+    position: absolute;
+    left: 0px;
+    top: 1673px;
+    overflow: hidden;
+}
+
+.rectangle-27 {
+    background: linear-gradient(269.49deg, rgba(22, 28, 44, 0.90) 0%, rgba(9, 21, 52, 0.00) 100%);
+    width: 1440px;
+    height: 978px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.pexels-pixabay-159643-3 {
+    background: linear-gradient(to left, rgba(32, 22, 54, 0.10), rgba(32, 22, 54, 0.10)), linear-gradient(90.22deg, rgba(6, 11, 21, 1.00) 3.125%, rgba(0, 0, 0, 0.58) 38.02083432674408%, rgba(0, 0, 0, 0.00) 95.83333134651184%);
+    width: 1829px;
+    height: 998px;
+    position: absolute;
+    left: 1440px;
+    top: 0px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+}
+
+.provide5 {
+    width: 1120px;
+    height: 978px;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+}
+
+.milyen-egy-j--weboldal- {
+    text-align: left;
+    font: 400 48px/134.5% 'Poppins';
+    position: absolute;
+    left: 594px;
+    top: 49px;
+    width: 580px;
+    height: 107px;
+}
+
+.milyen-egy-j--weboldal--span {
+    color: #ffffff;
+    font: 400 48px/134.5% 'Poppins';
+}
+
+.milyen-egy-j--weboldal--span2 {
+    color: #a2db99;
+    font: 400 48px/134.5% 'Poppins';
+}
+
+.a-legmodernebb-technol-gi-kkal-adja-a-l-togat--tudt-ra-a-legfontosabb-inform-ci-kat-a-term-kr-l-vagy-szolg-ltat-sr-l--mindezt-bizalomgerjeszt--form-ban- {
+    color: #ffffff;
+    text-align: left;
+    font: 500 20px 'Petrona';
+    position: absolute;
+    left: 594px;
+    top: 215px;
+    width: 483px;
+    height: 90px;
+}
+
+.vector-13 {
+    position: absolute;
+    left: 594px;
+    top: 182px;
+    overflow: visible;
+}
+
+.card-4 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 526px;
+    height: 120px;
+    position: absolute;
+    left: 594px;
+    top: 479px;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.55);
+    overflow: hidden;
+}
+
+.rectangle-18 {
+    width: 66px;
+    height: 63px;
+    position: absolute;
+    left: 27px;
+    top: 32px;
+}
+
+.funkcion-lis {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 14px;
+}
+
+.tartalma--rthet---s-k-nnyen-kezelhet---a-felhaszn-l-i--lm-ny-fenntartja-a-l-togat---rdekl-d-s-t--s-cselekv-sre-sarkallja- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 14px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 51px;
+    width: 383px;
+    height: 54px;
+}
+
+.card-5 {
+    background: var(--cardlineargrey, linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%));
+    border-radius: 40px;
+    border: solid var(--cardcorner, rgba(162, 219, 153, 0.47));
+    border-width: 1px;
+    width: 526px;
+    height: 120px;
+    position: absolute;
+    left: 594px;
+    top: 339px;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.55);
+    overflow: hidden;
+}
+
+.reszponz-v {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 14px;
+}
+
+.automatikusan-alkalmazkodik-a-k-perny--felbont-s-hoz--gy-minden-k-sz-l-kr-l-egyar-nt-eszt-tikusan-haszn-lhat-- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 14px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 51px;
+    width: 383px;
+    height: 54px;
+}
+
+.card-6 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 526px;
+    height: 120px;
+    position: absolute;
+    left: 594px;
+    top: 619px;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.55);
+    overflow: hidden;
+}
+
+.biztons-gos {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 14px;
+}
+
+.rendelkezzen-az-elengedhetetlen-ssl-tan-s-tv-nnyal--nehezen-t-madhat---s-tartalmaz-minden-sz-ks-ges-jogi-nyilatkozatot- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 14px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 51px;
+    width: 383px;
+    height: 54px;
+}
+
+.card-72 {
+    background: linear-gradient(180deg, rgba(134, 134, 138, 0.23) 0%, rgba(134, 134, 138, 0.00) 100%);
+    border-radius: 40px;
+    border: solid rgba(162, 219, 153, 0.47);
+    border-width: 1px;
+    width: 526px;
+    height: 120px;
+    position: absolute;
+    left: 594px;
+    top: 759px;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.55);
+    overflow: hidden;
+}
+
+.kir-v- {
+    color: #c5edbf;
+    text-align: center;
+    font: 700 24px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 13px;
+}
+
+.egyedis-g-vel-es-felhaszn-l--bar-t-fel-let-vel-kiemelkedik-a-konkurens-v-llalkoz-sok-k-z-l--ezzel-piaci-el-nyh-z-juttatja-a-tulajdonos-t {
+    color: #ffffff;
+    text-align: left;
+    font: 400 14px/119.5% 'Poppins';
+    position: absolute;
+    left: 115px;
+    top: 51px;
+    width: 383px;
+    height: 54px;
+}
+
+.footer-3-dark {
+    background: linear-gradient(180deg, rgba(51, 57, 68, 1.00) 0%, rgba(23, 29, 43, 0.00) 100%);
+    width: 1440px;
+    height: 575.58px;
+    position: absolute;
+    left: 0px;
+    top: 8487.63px;
+    overflow: hidden;
+}
+
+.background {
+    width: 1440px;
+    height: 593px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.product {
+    width: 73px;
+    height: 177.4px;
+    position: static;
+}
+
+.product2 {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 500 20px/26.4px 'Inter';
+    position: absolute;
+    left: 161px;
+    top: calc(50% - 175.79px);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+
+.business-designers-c {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 600 14px/20px 'Poppins';
+    opacity: 0.75;
+    position: absolute;
+    left: 161px;
+    top: calc(50% - 108.39px);
+}
+
+.learning {
+    width: 89px;
+    height: 147px;
+    position: static;
+}
+
+.learning2 {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 500 20px/26.4px 'Poppins';
+    position: absolute;
+    left: 386px;
+    top: calc(50% - 175.79px);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+
+.learn-hub-manuals-tu {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 600 14px/20px 'Poppins';
+    opacity: 0.75;
+    position: absolute;
+    left: 386px;
+    top: calc(50% - 108.79px);
+}
+
+.resources {
+    width: 205px;
+    height: 147px;
+    position: static;
+}
+
+.resources2 {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 500 20px/26.4px 'Poppins';
+    position: absolute;
+    left: calc(50% - 93px);
+    top: calc(50% - 175.79px);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+
+.tutorials-editorials {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 600 14px/20px 'Poppins';
+    opacity: 0.75;
+    position: absolute;
+    left: 627px;
+    top: calc(50% - 108.79px);
+}
+
+.tutorials-editorials2 {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 400 14px/20px 'Poppins';
+    opacity: 0.75;
+    position: absolute;
+    left: 996px;
+    top: calc(50% - 108.79px);
+    width: 284px;
+    height: 110px;
+}
+
+.--2020-linearity-gmb {
+    color: var(--white, #ffffff);
+    text-align: center;
+    font: 400 16px/26px 'Inter';
+    position: absolute;
+    left: 584px;
+    top: calc(50% - -111.21px);
+}
+
+.logo {
+    width: 200px;
+    height: 82px;
+    position: absolute;
+    left: 996px;
+    top: 73px;
+    overflow: hidden;
+}
+
+.line-8 {
+    border: solid var(--green, #a2db99);
+    border-width: 1px 0 0 0;
+    width: 1120px;
+    height: 0px;
+    position: absolute;
+    left: 160px;
+    top: 352px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.group-20 {
+    width: 919.61px;
+    height: 50px;
+    position: static;
+}
+
+.vector10 {
+    position: absolute;
+    left: 1128.27px;
+    top: 472.37px;
+    overflow: visible;
+}
+
+.yt {
+    position: absolute;
+    left: 252px;
+    top: 472.37px;
+    overflow: visible;
+}
+
+.twitter {
+    position: absolute;
+    left: 942.07px;
+    top: 472.37px;
+    overflow: visible;
+}
+
+.in {
+    position: absolute;
+    left: 602.32px;
+    top: 472.37px;
+    overflow: visible;
+}
+
+.fb {
+    position: absolute;
+    left: 449.25px;
+    top: 472.37px;
+    overflow: visible;
+}
+
+.p {
+    position: absolute;
+    left: 778.35px;
+    top: 472.37px;
+    overflow: visible;
+}
+
+.navbar {
+    background: linear-gradient(180deg, rgba(51, 57, 68, 1.00) 0%, rgba(23, 29, 43, 1.00) 100%);
+    padding: 0px 160px 0px 160px;
+    display: flex;
+    flex-direction: row;
+    gap: 264px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1440px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.logo2 {
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 200px;
+    height: 80px;
+    position: relative;
+}
+
+.menu {
+    padding: 14px 0px 14px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    height: 79px;
+    position: relative;
+}
+
+.f-oldal {
+    color: #ffffff;
+    text-align: left;
+    font: 500 18px 'Petrona';
+    text-transform: uppercase;
+    position: relative;
+    width: 82px;
+}
+
+.mun {
+    color: #ffffff;
+    text-align: left;
+    font: 500 18px 'Petrona';
+    text-transform: uppercase;
+    position: relative;
+    width: 154px;
+}
+
+.kapcsolat {
+    color: #ffffff;
+    text-align: left;
+    font: 500 18px 'Petrona';
+    text-transform: uppercase;
+    position: relative;
+    width: 100px;
+}
+
+.component-1 {
+    flex-shrink: 0;
+    width: 170px;
+    height: 47px;
+    position: relative;
+}
+
+.rectangle-6 {
+    border-radius: 5px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.aj-nlatk-r-s2 {
+    color: #3b3b4f;
+    text-align: left;
+    font: 700 18px 'Petrona';
+    text-transform: uppercase;
+    position: absolute;
+    left: 18px;
+    top: 15px;
+    width: 134px;
+    height: 17px;
+}
